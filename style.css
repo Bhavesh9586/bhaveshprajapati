@@ -219,7 +219,7 @@ button {
     border-radius: 50%;
 }
 section {
-    background: turquoise;
+       background: radial-gradient(#fff, #ffd6d6);
 }
 
 /* Media Queries for Responsiveness */
