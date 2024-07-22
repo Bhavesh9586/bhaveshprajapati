@@ -117,7 +117,7 @@ button {
 .wrapper {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    grid-gap: 0em;
+    grid-gap: 2em;
     justify-content: center;
     margin-top: 10px;
     align-items: center;
